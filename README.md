@@ -1,4 +1,4 @@
-# National-college-students-program-design-competition-of-traditional-Chinese-Medicine
+#  ACM Competition of Chinese Traditional Medicine University
 全国中医药院校大学生程序设计竞赛个人整理/所写/收集的合集
 
 # 简介
